@@ -1,0 +1,1 @@
+document.write(" Your brower name is " + navigator.appName + ", width of screen is " + window.screen.availWidth +", height of screen is " + window.screen.availHeight)

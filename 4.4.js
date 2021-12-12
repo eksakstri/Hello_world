@@ -1,0 +1,5 @@
+document.write(navigator.appName,)
+document.write("\n")
+document.write(window.screen.availWidth,"x",window.screen.availHeight)
+document.write("\n")
+document.write(document.lastModified)
